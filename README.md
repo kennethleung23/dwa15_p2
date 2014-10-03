@@ -1,7 +1,7 @@
 # Ken Leung - Dynamic Web Apps 15
 
 ## Live URL
-<http://p2.kennethleung23-dwa15.biz/index.php>
+<http://p2.kennethleung23-dwa15.biz/dwa15_p2/index.php>
 
 ## GitHub URL
 <https://github.com/kennethleung23/dwa15_p2>
@@ -10,7 +10,7 @@
 This is my second project for this class. I’ve created a XKCD Password Generator.
 
 ## Demo
-Will be presenting a demo in my session on next Wednesday.
+Will be presenting a live demo in my session on next Wednesday.
 
 ## Details for teaching team
 No login required.

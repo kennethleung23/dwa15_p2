@@ -7,7 +7,7 @@
 	
 	<link href='//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css' rel="stylesheet">
 	<link rel='stylesheet' href='P2_style.css' type='text/css'>
-	
+
 <?php require 'P2_password.php' ?>
 </head>
 <body>
@@ -28,10 +28,10 @@
 				<label for='add_symbol'>Please add a symbol</label>
 				<br>
 				<input type='checkbox' name='add_uppercase' id='add_uppercase' <?php if(isset($_POST['add_uppercase'])) echo 'checked="checked"'; ?> > 
-				<label for='add_uppercase'>Make First Letter Uppercase</label>
+				<label for='add_uppercase'>Make the First word to all Uppercase</label>
 				<br>
 				<input type='checkbox' name='add_lowercase' id='add_lowercase' <?php if(isset($_POST['add_lowercase'])) echo 'checked="checked"'; ?> > 
-				<label for='add_lowercase'>Make Third Letter Lowercase</label>
+				<label for='add_lowercase'>Make the Third word to all Lowercase</label>
 			</p>
 		
 			<input type='submit' class='btn btn-default' value='Generate Password'>
